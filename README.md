@@ -48,8 +48,7 @@ Bem-vindo ao meu perfil! Aqui você encontrará informações sobre meus projeto
 ---
 
 ## 📫 Como me encontrar
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-🌐 [Portfólio](https://seuportfolio.com)
-📩 [Email](mailto:seuemail@email.com)
+🔗 [LinkedIn](www.linkedin.com/in/ana-beatriz)
+📩 [Email](biasilvavida123@email.com)
 
 📢 **"Criatividade e design que fazem a diferença!"**
