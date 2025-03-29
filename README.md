@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋Oi, Eu sou Beatriz Ribeiro! 
 
 <!--
 **beatrizribeirods/beatrizribeirods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
