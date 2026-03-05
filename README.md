@@ -8,7 +8,7 @@ Minha experiência vai desde **atender demandas técnicas e resolver problemas c
 
 Habilidades
 
-No meu dia a dia, trabalho com **HTML, CSS, JavaScript**, ferramentas de **design como Figma**, e pratico constantemente técnicas de **UX/UI para entregar soluções cada vez melhores**. Também tenho experiência em *suporte técnico e Service Desk*, o que me deu uma visão completa do ciclo de atendimento e resolução de problemas.
+No meu dia a dia, trabalho com **Python, CSS, JavaScript**, ferramentas de **design como Figma**, e pratico constantemente técnicas de **UX/UI para entregar soluções cada vez melhores**. Também tenho experiência em *suporte técnico e Service Desk*, o que me deu uma visão completa do ciclo de atendimento e resolução de problemas.
 
 Objetivo
 
