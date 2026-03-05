@@ -1,49 +1,17 @@
-# Olá! Eu sou Beatriz Ribeiro🎨✨
+# Olá, eu sou Ana Beatriz👩‍💻
 
-Bem-vindo ao meu perfil! Aqui você encontrará informações sobre meus projetos, interesses e habilidades no mundo do design. 
+Sobre mim
 
----
+Sou profissional de **TI**, apaixonada por *desenvolvimento Front-End, UX/UI e Service Desk*. Adoro transformar ideias em interfaces funcionais e agradáveis, garantindo que cada usuário tenha uma experiência intuitiva e eficiente.
 
-## 🎨 Sobre mim
-💼 Atualmente trabalhando com **Design Gráfico e UX/UI**.
-📚 Sempre explorando novas tendências em **tipografia, cores e interfaces digitais**.
-🚀 Apaixonado por **criatividade, inovação e experiências visuais**.
-🎯 Meu objetivo é **criar designs impactantes e funcionais que contam histórias**.
+Minha experiência vai desde **atender demandas técnicas e resolver problemas complexos**, até *criar interfaces e protótipos que unem design e usabilidade*. Essa combinação de habilidades me permite entender profundamente tanto o lado do usuário quanto o lado do código.
 
----
+Habilidades
 
-## 🛠️ Ferramentas e Tecnologias
+No meu dia a dia, trabalho com **HTML, CSS, JavaScript**, ferramentas de **design como Figma**, e pratico constantemente técnicas de **UX/UI para entregar soluções cada vez melhores**. Também tenho experiência em *suporte técnico e Service Desk*, o que me deu uma visão completa do ciclo de atendimento e resolução de problemas.
 
-### 🎨 Design & Prototipação
-- Adobe Photoshop
-- Adobe Illustrator
-- Figma
-- Adobe XD
-- Sketch
-- CorelDRAW
+Objetivo
 
-### 🖌️ Edição e Motion Design
-- After Effects
-- Premiere Pro
-- DaVinci Resolve
+Estou sempre **em busca de novos desafios e aprendizados**, seja explorando novas tecnologias, otimizando processos ou criando experiências digitais que realmente fazem diferença.  
 
-### 🖥️ Web & UI/UX
-- HTML & CSS
-- Webflow
-- WordPress
-- No-Code & Low-Code Tools
-
-### 🔧 Outras Skills
-- Branding & Identidade Visual
-- Design Thinking
-- Animações e Interações Digitais
-- Psicologia das Cores e Experiência do Usuário
-
----
-
-
-## 📫 Como me encontrar
-🔗 [LinkedIn](www.linkedin.com/in/ana-beatriz)
-📩 [Email](biasilvavida123@email.com)
-
-📢 **"Criatividade e design que fazem a diferença!"**
+Se você busca alguém que **una tecnologia, design e atenção ao usuário**, eu adoraria conversar sobre como posso contribuir para sua equipe.
