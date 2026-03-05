@@ -2,7 +2,7 @@
 
 Sobre mim
 
-Sou profissional de **TI**, apaixonada por *desenvolvimento Front-End, UX/UI e Service Desk*. Adoro transformar ideias em interfaces funcionais e agradáveis, garantindo que cada usuário tenha uma experiência intuitiva e eficiente.
+Sou profissional de **TI**, trabalho com *desenvolvimento Front-End, UX/UI e Service Desk*. Adoro transformar ideias em interfaces funcionais e agradáveis, garantindo que cada usuário tenha uma experiência intuitiva e eficiente.
 
 Minha experiência vai desde **atender demandas técnicas e resolver problemas complexos**, até *criar interfaces e protótipos que unem design e usabilidade*. Essa combinação de habilidades me permite entender profundamente tanto o lado do usuário quanto o lado do código.
 
